@@ -1,0 +1,8 @@
+numpy==1.26.4
+mne
+torch
+pandas
+seaborn
+scikit-learn
+torchsummary
+matplotlib
